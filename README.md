@@ -1,2 +1,2 @@
 # INFO073-Juego
-Juego primer semestre
+Taller de ingeniería de software 2019 primer semestre. Juego
